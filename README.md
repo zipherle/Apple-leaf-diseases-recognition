@@ -81,21 +81,11 @@ The dataset used for this project consists of images of apple leaves labeled wit
 
 ```plaintext
 data/
-├── train/
-│   ├── healthy/
-│   ├── scab/
-│   ├── rust/
-│   └── black_rot/
-├── val/
-│   ├── healthy/
-│   ├── scab/
-│   ├── rust/
-│   └── black_rot/
-└── test/
-    ├── healthy/
-    ├── scab/
-    ├── rust/
-    └── black_rot/
+├── APPLE ROT LEAVES/
+├── HEALTHY LEAVES/
+├── LEAF BLOTCH/
+├── SCAB LEAVES/
+└── archive.zip
 ```
 
 Make sure to replace the disease categories (`healthy`, `scab`, `rust`, `black_rot`) with the actual labels in your dataset.
@@ -139,8 +129,4 @@ python evaluate.py
 ```
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/zipherle/Apple-leaf-diseases-recognition/blob/master/LICENSE) file for details.
 
