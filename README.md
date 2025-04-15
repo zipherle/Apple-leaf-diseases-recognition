@@ -144,6 +144,3 @@ python evaluate.py
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/zipherle/Apple-leaf-diseases-recognition/blob/master/LICENSE) file for details.
 
----
-
-Let me know if you’d like to include any additional details or make further customizations!
